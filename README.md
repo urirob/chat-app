@@ -12,3 +12,8 @@ https://nodejs.org/api/tty.html#writestreamclearlinedir-callback
 
 
 
+follow up for more better application <br>
+
+can ask for each client a custom user-name which will be reflected throughout their activity<br>
+
+adding reply,edit functionality for already sent message
