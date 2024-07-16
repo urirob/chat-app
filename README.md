@@ -16,4 +16,6 @@ follow up for more better application <br>
 
 can ask for each client a custom user-name which will be reflected throughout their activity<br>
 
-adding reply,edit functionality for already sent message
+adding reply,edit functionality for already sent message<br>
+
+authentication, security that it can verify user 
